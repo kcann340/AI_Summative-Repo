@@ -47,8 +47,8 @@ descriptions = {
     'grade_improvement': "Progress in grades from one period to the next",
     'g2': "Second to last assesent, indicating recent academic performance",
     'absences': "Number of school absences, reflecting attendance",
-    'poly_1': "Interaction possibly involving age or basic academic factors",
-    'poly_3': "Another interaction of student characteristics or behaviors",
+    'poly_1': "Interaction involving age and basic academic factors",
+    'poly_3': "Interaction of student characteristics and behaviors",
     'studytimeweekly': "Amount of time dedicated to studying each week"
 }
 
